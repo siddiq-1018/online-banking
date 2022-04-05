@@ -7,8 +7,8 @@ import Offer from './components/offer';
 
 export default function App() {
   return (
-    <div className="body">
-      <h1 className="text-center">Welcome to our bank</h1>
+    <div className="body mt-5">
+      <h1 className="welcome-head text-center">Welcome to our bank</h1>
       <div>
         <Slider />
       </div>

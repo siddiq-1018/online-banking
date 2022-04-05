@@ -1,8 +1,14 @@
 .body {
   min-height: 100vh;
   color: white;
-  background-image: url('https://ak.picdn.net/shutterstock/videos/1037027657/thumb/1.jpg');
-  background-size: cover;
+  /* background-image: url('https://ak.picdn.net/shutterstock/videos/1037027657/thumb/1.jpg');
+  background-size: cover; */
+}
+
+
+.welcome-head
+{
+  color:#086b8a;
 }
 
 .card-bg {
@@ -58,6 +64,7 @@ section{
 .icon-size
 {
   font-size:50px;
+  color:#086b8a;
 }
 
 .icon-border
@@ -71,9 +78,11 @@ section{
 .swipe-head
 {
   font-size:15px;
+  color: #086b8a;
 }
 
 p{
-  font-size:12px;
+  font-size:13px;
   margin:5px;
+  color:#77c2da;
 }

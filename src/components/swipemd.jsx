@@ -10,13 +10,13 @@ import 'swiper/css/navigation';
 import { Pagination, Navigation } from 'swiper';
 import '../style.css';
 
-class Swipe extends Component {
+class Swipemd extends Component {
     render() {
       return (
         <div>
             <Swiper
-            slidesPerView={5}
-            spaceBetween={20}
+            slidesPerView={3}
+            spaceBetween={30}
             slidesPerGroup={1}
             loop={true}
             loopFillGroupWithBlank={false}
@@ -154,4 +154,4 @@ class Swipe extends Component {
       };
     }
 
-  export default Swipe;
+  export default Swipemd;
