@@ -22,11 +22,11 @@ class Swipe extends Component {
             loopFillGroupWithBlank={false}
             navigation={true}
             modules={[Navigation]}
-            className="mySwiper text-dark"
+            className="mySwiper pt-0"
           >
             <SwiperSlide className='slider-box'> 
             <div>
-              <div className='mb-4 p-4 icon-border'>
+              <div className='m-3 p-4 icon-border'>
               <FontAwesomeIcon className='icon-size' icon={faKey} />
               </div>
                <div>
@@ -37,7 +37,7 @@ class Swipe extends Component {
             </SwiperSlide>
             <SwiperSlide className='slider-box'>
             <div>
-              <div className='mb-4 p-4 icon-border'>
+              <div className='m-3 p-4 icon-border'>
               <FontAwesomeIcon className='icon-size' icon={faPager} />
               </div>
                <div>
@@ -48,7 +48,7 @@ class Swipe extends Component {
             </SwiperSlide>
             <SwiperSlide className='slider-box'>
               <div>
-              <div className='mb-4 p-4 icon-border'>
+              <div className='m-3 p-4 icon-border'>
               <FontAwesomeIcon className='icon-size' icon={faGear} />
               </div>
                <div>
@@ -59,7 +59,7 @@ class Swipe extends Component {
             </SwiperSlide>
             <SwiperSlide className='slider-box'>
             <div>
-              <div className='mb-4 p-4 icon-border'>
+              <div className='m-3 p-4 icon-border'>
               <FontAwesomeIcon className='icon-size' icon={faMessage} />
               </div>
                <div>
@@ -69,7 +69,7 @@ class Swipe extends Component {
             </div>
             </SwiperSlide>
             <SwiperSlide className='slider-box'> <div>
-              <div className='mb-4 p-4 icon-border'>
+              <div className='m-3 p-4 icon-border'>
               <FontAwesomeIcon className='icon-size' icon={faBell} />
               </div>
                <div>
@@ -78,7 +78,7 @@ class Swipe extends Component {
             </div>
             </div></SwiperSlide>
             <SwiperSlide className='slider-box'> <div>
-              <div className='mb-4 p-4 icon-border'>
+              <div className='m-3 p-4 icon-border'>
               <FontAwesomeIcon className='icon-size' icon={faBars} />
               </div>
                <div>
@@ -87,7 +87,7 @@ class Swipe extends Component {
             </div>
             </div></SwiperSlide>
             <SwiperSlide className='slider-box'><div>
-              <div className='mb-4 p-4 icon-border'>
+              <div className='m-3 p-4 icon-border'>
               <FontAwesomeIcon className='icon-size' icon={faPlus} />
               </div>
                <div>
@@ -96,7 +96,7 @@ class Swipe extends Component {
             </div>
             </div></SwiperSlide>
             <SwiperSlide className='slider-box'> <div>
-              <div className='mb-4 p-4 icon-border'>
+              <div className='m-3 p-4 icon-border'>
               <FontAwesomeIcon className='icon-size' icon={faExclamationTriangle} />
               </div>
                <div>
@@ -105,7 +105,7 @@ class Swipe extends Component {
             </div>
             </div></SwiperSlide>
             <SwiperSlide className='slider-box'> <div>
-              <div className='mb-4 p-4 icon-border'>
+              <div className='m-3 p-4 icon-border'>
               <FontAwesomeIcon className='icon-size' icon={faUserCircle} />
               </div>
                <div>

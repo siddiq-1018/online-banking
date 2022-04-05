@@ -70,6 +70,9 @@ section{
 .icon-border
 {
   border:2px solid #77c2da;
+  height:100px;
+  width:100px;
+  text-align: center;
   display: inline-block;
   position:relative;
   border-radius: 50%;

@@ -22,7 +22,7 @@ class Swipemd extends Component {
             loopFillGroupWithBlank={false}
             navigation={true}
             modules={[Navigation]}
-            className="mySwiper text-dark"
+            className="mySwiper"
           >
             <SwiperSlide className='slider-box'> 
             <div>

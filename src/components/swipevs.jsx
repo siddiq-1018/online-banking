@@ -25,7 +25,7 @@ class Swipevs extends Component {
             className="mySwiper text-dark"
           >
             <SwiperSlide className='slider-box'> 
-            <div>
+            <div > 
               <div className='mb-4 p-4 icon-border'>
               <FontAwesomeIcon className='icon-size' icon={faKey} />
               </div>
