@@ -89,3 +89,47 @@ p{
   margin:5px;
   color:#77c2da;
 }
+
+.chart
+{
+  width:260px;
+}
+
+.contactUsBg
+{
+  background-image: url('./images/contactus_bg.png');
+  background-size: cover;
+  min-height: 100vh;
+  padding-top: 20px;
+}
+
+label{
+  font-weight: 600;
+  font-size: 20px;
+  color: #fff;
+  /* text-decoration: underline; */
+}
+
+.label
+{
+  font-weight: 600;
+  font-size: 20px;
+  color:#fff;
+  /* text-decoration: underline; */
+}
+
+.login_bg
+{
+  background-image: url('./images/login-page-bg.jpg');
+  background-size: cover;
+  min-height: 100vh;
+  padding-top: 20px;
+}
+
+.newreg_bg
+{
+  background-image: url('./images/login-page-bg.jpg');
+  background-size: cover;
+  min-height: 100vh;
+  color:white;
+}
